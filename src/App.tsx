@@ -948,7 +948,7 @@ export default function App() {
             </p>
 
             <h1 className="name-reveal">
-              Nabeel <i>Ahmad.</i>
+              Nabeel <i>Ahmad</i>
             </h1>
 
             <p className="role-line blur-in">
